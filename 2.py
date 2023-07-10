@@ -274,7 +274,7 @@ cps = []
 
 def clear():
 
-    os.system('espeak \"Wall come To Nihan vai ar, Facebook,id\')
+    os.system('espeak \"Wall come To Nihan vai ar, Facebook,id\'''')
 
     print(logo)
 
